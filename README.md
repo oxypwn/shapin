@@ -2,6 +2,8 @@
 
 Take input on stdin and print a sha512 to stdout.
 
+[![Build Status](https://travis-ci.org/pandrew/shapin.png?branch=master)](https://travis-ci.org/pandrew/shapin)
+
 ## Features
 +   Leaves no traces of input in your shells history.
 +   Leaves no traces of input in ps
